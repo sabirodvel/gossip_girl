@@ -1,0 +1,51 @@
+---
+title: "Hint 1"
+description: |
+  Open me to discover your first hint
+draft: true  
+author:
+  - name: Gossip Girl
+    url: {}
+date: 2024-02-05
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,out.width = "100%")
+```
+
+```{r}
+#Load packages
+pacman::p_load(here, checkdown)
+```
+
+Hey South East Siders, 
+
+There’s nothing Gossip Girl likes more than a surprise. 
+
+What’s the surprise you might ask? Well well well, we have the first clue to bad-est and fun-est bach bash. 
+
+## Hint
+
+Unlock the series of emojis to unveil a location.
+
+Are you ready? 
+
+Hint to your first emoji: 
+
+```{r fig.align='center'}
+knitr::include_graphics(here("images/qr_codes.png"))
+```
+## Check Your Answer
+
+Write your answer down below:
+
+*Make sure to write your answer in CAPITAL letters!*
+
+```{r}
+check_question(answer = "ROYGBIV", right = "Correct! You sure are a smart cookie", wrong = "Awe... Try Again!")
+```
+
+

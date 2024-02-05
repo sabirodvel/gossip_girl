@@ -1,0 +1,7 @@
+---
+title: "Blog"
+site: distill::distill_website
+image: gossip_girl.png
+listing: posts
+---
+
