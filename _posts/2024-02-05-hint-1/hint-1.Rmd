@@ -45,7 +45,7 @@ Write your answer down below:
 *Make sure to write your answer in CAPITAL letters!*
 
 ```{r}
-check_question(answer = "ROYGBIV", right = "Correct! You sure are a smart cookie", wrong = "Awe... Try Again!")
+check_question(answer = "ROYGBIV", right = "Correct! You sure are a smart cookie.", wrong = "Awe... Try Again!")
 ```
 
 
