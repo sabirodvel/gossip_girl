@@ -55,4 +55,4 @@ check_question(answer = "ROYGBIV", right = "Correct! Here is your secret emoji: 
 ----------------------------------------------------------
 *PS: To unlock your next hint, send me a screenshot of the correct answer! Don't forget to mention the secret emoji!*
 
-**XOXO, Gossip Girl**
+-*XOXO*, **Gossip Girl**
