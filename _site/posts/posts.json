@@ -1,22 +1,5 @@
 [
   {
-    "path": "posts/2024-02-05-hint-1/",
-    "title": "Hint 1",
-    "description": "Open me to discover your first hint",
-    "author": [
-      {
-        "name": "Gossip Girl",
-        "url": {}
-      }
-    ],
-    "date": "2024-02-05",
-    "categories": [],
-    "contents": "\r\n\r\n\r\n\r\nHey South East Siders,\r\nThere’s nothing Gossip Girl likes more than a surprise.\r\nWhat’s the surprise you might ask? Well well well, we have the first clue to bad-est and fun-est bach bash.\r\nHint\r\nUnlock the series of emojis to unveil a location.\r\nAre you ready?\r\nHint to your first emoji:\r\n\r\n\r\n\r\nCheck Your Answer\r\nWrite your answer down below:\r\nMake sure to write your answer in CAPITAL letters!\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-    "preview": "posts/2024-02-05-hint-1/../../images/qr_codes.png",
-    "last_modified": "2024-02-05T15:26:43+01:00",
-    "input_file": {}
-  },
-  {
     "path": "posts/2024-02-05-welcome/",
     "title": "Welcome",
     "description": "Welcome Sunshine Elites!",
@@ -32,5 +15,22 @@
     "preview": "posts/2024-02-05-welcome/../../images/gossip_girl.png",
     "last_modified": "2024-02-05T05:23:02+01:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2024-02-05-hint-1/",
+    "title": "Hint 1",
+    "description": "Open me to discover your first hint",
+    "author": [
+      {
+        "name": "Gossip Girl",
+        "url": {}
+      }
+    ],
+    "date": "2024-02-05",
+    "categories": [],
+    "contents": "\r\n\r\n\r\n\r\nHey South East Siders,\r\nThere’s nothing Gossip Girl likes more than a surprise.\r\nWhat’s the surprise you might ask? Well well well, we have the first clue to bad-est and fun-est bach bash.\r\nHint\r\nUnlock the series of emojis to unveil a location.\r\nAre you ready?\r\nHere is the hint to your first emoji:\r\n\r\n\r\n\r\nCheck Your Answer\r\nThink you know the answer?\r\nInsert the secret LETTERS down below:\r\nMake sure to write your answer in CAPITAL letters!\r\n\r\n\r\n\r\n\r\n\r\nPS: To unlock your next hint, send me a screenshot of the correct answer! Don’t forget to mention the secret emoji!\r\nXOXO, Gossip Girl\r\n\r\n\r\n\r\n",
+    "preview": "posts/2024-02-05-hint-1/../../images/qr_codes.png",
+    "last_modified": "2024-02-07T00:16:07+01:00",
+    "input_file": "hint-1.knit.md"
   }
 ]

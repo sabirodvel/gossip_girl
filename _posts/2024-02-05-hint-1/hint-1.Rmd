@@ -31,21 +31,28 @@ What’s the surprise you might ask? Well well well, we have the first clue to b
 
 Unlock the series of emojis to unveil a location.
 
+
 Are you ready? 
 
-Hint to your first emoji: 
+Here is the hint to your **first** emoji: 
 
 ```{r fig.align='center'}
 knitr::include_graphics(here("images/qr_codes.png"))
 ```
 ## Check Your Answer
 
-Write your answer down below:
+Think you know the answer?
 
-*Make sure to write your answer in CAPITAL letters!*
+Insert the secret LETTERS down below:
+
+
+**Make sure to write your answer in CAPITAL letters!**
 
 ```{r}
-check_question(answer = "ROYGBIV", right = "Correct! You sure are a smart cookie.", wrong = "Awe... Try Again!")
+check_question(answer = "ROYGBIV", right = "Correct! Here is your secret emoji: 🌈", wrong = "Awe... You missed. Try Again!")
 ```
 
+----------------------------------------------------------
+*PS: To unlock your next hint, send me a screenshot of the correct answer! Don't forget to mention the secret emoji!*
 
+**XOXO, Gossip Girl**
