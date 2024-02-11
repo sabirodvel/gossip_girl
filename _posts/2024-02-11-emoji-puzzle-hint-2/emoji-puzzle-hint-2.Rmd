@@ -46,10 +46,12 @@ So, listen in and unlock the 2nd mysterious emoji.
 
 Think you know the answer?
 
-Insert the secret EMOJI down below:
+Insert the secret word down below:
+
+**Make sure to write your answer in CAPITAL letters!**
 
 ```{r}
-check_question(answer = "⛪", right = "Correct!", wrong = "Awe... You missed. Try Again!")
+check_question(answer = "CHURCH", right = "Correct! Here is your secret emoji ⛪", wrong = "Awe... You missed. Try Again!")
 ```
 
 ----------------------------------------------------------
