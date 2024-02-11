@@ -1,0 +1,58 @@
+---
+title: "Emoji Puzzle: Hint 2"
+description: |
+  OMG, I LOVE this song! Turn it UP!
+author:
+  - name: Gossip Girl
+    url: {}
+date: 2024-02-11
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, out.width = "30%")
+```
+
+```{r}
+#Load packages
+pacman::p_load(here, checkdown)
+```
+
+
+```{r fig.align='center'}
+knitr::include_graphics(here("images/music_note.jpg"))
+```
+
+Hello Southern Beauties, 
+
+Gossip Girl here! 
+
+Looks like our 1st emoji has been revealed. And you know, what I like more than a solved puzzle? - It is an unsolved one. 
+
+## Hint
+
+Unlock the series of emojis to unveil a location.
+
+[🌈⬜⬜⬜⬜]
+
+Sounds like the Country Queens have been listening to a secret playlist. And my sources tell me, the song in this [playlist](https://open.spotify.com/playlist/6kLaF6fHaKlfmZz7gGdXvJ?si=veetImBrRdSTQcQyqcUyzA&pi=u-ygmMlW2oT8i1&nd=1&dlsi=55f2361834544cff) holds the key to finding your next emoji.
+
+So, listen in and unlock the 2nd mysterious emojis.
+
+## Check Your Answer
+
+Think you know the answer?
+
+Insert the secret EMOJI down below:
+
+```{r}
+check_question(answer = "⛪", right = "Correct!", wrong = "Awe... You missed. Try Again!")
+```
+
+----------------------------------------------------------
+*PS: To unlock your next hint, send me a screenshot of the correct answer! Don't forget to mention the secret emoji!*
+
+-*XOXO*, **Gossip Girl**
