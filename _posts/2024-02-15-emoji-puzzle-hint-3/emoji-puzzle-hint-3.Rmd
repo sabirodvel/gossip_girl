@@ -38,7 +38,7 @@ Unlock the series of emojis to unveil a location.
 
 [🌈⛪⬜⬜⬜]
 
-Click [here](https://puzzel.org/en/jigsaw/play?p=-NqircRu1wbfvKPiMIBP), solve this puzzle, and unlock the 3rd mysterious emoji.
+Click **[here](https://puzzel.org/en/jigsaw/play?p=-NqircRu1wbfvKPiMIBP)**, solve this puzzle, and unlock the 3rd mysterious emoji.
 
 ## Check Your Answer
 
