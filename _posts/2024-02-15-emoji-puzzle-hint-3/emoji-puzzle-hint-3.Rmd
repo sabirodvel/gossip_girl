@@ -1,0 +1,59 @@
+---
+title: "Emoji Puzzle: Hint 3"
+description: |
+  Reassamble me and discover the next mystery emoji.
+author:
+  - name: Gossip Girl
+    url: {}
+date: 2024-02-15
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, out.width = "50%")
+```
+
+```{r}
+#Load packages
+pacman::p_load(here, checkdown)
+```
+
+
+```{r fig.align='center'}
+knitr::include_graphics(here("images/puzzle_pieces.png"))
+```
+
+Hey Sunshine Elites, 
+
+Did you know there is a new jigsaw puzzle in town? And word on the street is the puzzle reveals your next emoji. 
+
+Are you ready to solve this mystery to make some history? 
+
+## Hint
+
+Unlock the series of emojis to unveil a location.
+
+[🌈⛪⬜⬜⬜]
+
+Click [here](https://puzzel.org/en/jigsaw/play?p=-NqircRu1wbfvKPiMIBP), solve this puzzle, and unlock the 3rd mysterious emoji.
+
+## Check Your Answer
+
+Think you know the answer?
+
+Insert the secret word down below:
+
+**Make sure to write your answer in CAPITAL letters!**
+
+```{r}
+check_question(answer = "SCROLL", right = "Correct! Here is your secret emoji 📜", wrong = "Awe... You missed. Try again!")
+```
+
+----------------------------------------------------------
+*PS: To unlock your next hint, send me a screenshot of the correct answer! Don't forget to mention the secret emoji!*
+
+-*XOXO*, **Gossip Girl**
+
