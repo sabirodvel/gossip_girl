@@ -1,0 +1,60 @@
+---
+title: "Emoji Puzzle Hint 4"
+description: |
+  SPOTTED ALERT!
+author:
+  - name: Gossip Girl
+    url: {}
+date: 2024-02-21
+output:
+  distill::distill_article:
+    self_contained: false
+draft: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, out.width = "50%")
+```
+
+```{r}
+#Load packages
+pacman::p_load(here, checkdown)
+```
+
+```{r fig.align='center'}
+knitr::include_graphics(here("images/mimosas.png"))
+```
+
+**Spotted:** 
+
+The Florida Hotties gathering for brunch. But hold on to your mimosas, dear readers, because there's more than just scrambled eggs on the menu today. I hear there's a scandalous game afoot. 
+
+Sources tell me that it's time to put on your thinking caps because we need to get unscrambling. 
+
+Who's up for the challenge?
+
+## Hint
+
+*Unlock this serie of emojis to unveil a location* [🌈⛪📜⬜⬜].
+
+Your 4th emoji is playing hard to get in this scandalous scrambling game. I guess eggs are not the only thing I like to have scrambled...
+
+Here is your next clue:
+**FGILGNO**
+
+## Check Your Answer
+
+Think you know the answer?
+
+Insert the secret word down below:
+
+**Make sure to write your answer in CAPITAL letters!**
+
+```{r}
+check_question(answer = "GOLFING", right = "Correct! Here is your secret emoji 🏌", wrong = "Awe... You missed. Try again!")
+```
+
+----------------------------------------------------------
+*PS: To unlock your next hint, send me a screenshot of the correct answer! Don't forget to mention the secret emoji!*
+
+-*XOXO*, **Gossip Girl**
